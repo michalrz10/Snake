@@ -1,4 +1,3 @@
-import tensorflow as tf
 import pygame
 import sys
 import random
